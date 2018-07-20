@@ -80,3 +80,4 @@
 是否有更好的记录形式？
 
 # [如何准备BP：选题、堆素材、模仿、自检清单](https://github.com/AIWriter/Writer006/issues/115) 
+# [HbFinalProjectCollaborate](https://github.com/AIWriter/Writer006/wiki/HbFinalProjectCollaborate#%E5%A6%82%E4%BD%95%E6%9B%B4%E5%BF%AB%E5%81%9A%E5%87%BA%E8%A7%86%E9%A2%91)
